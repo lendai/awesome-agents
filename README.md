@@ -27,6 +27,7 @@ A curated list of libraries, tools, and products used to build great ai agents
 
 - [DeepEval](https://github.com/confident-ai/deepeval) - DeepEval is a simple-to-use, open-source LLM evaluation framework
 - [Promptfoo](https://www.promptfoo.dev/) - simple of testing and evaluation of LLM prompts
+- [Future AGI](https://github.com/future-agi/future-agi) - Open-source platform for agent simulation, evaluating, tracing, guarding, and auto-improving AI agents.
 
 ## Inference
 
